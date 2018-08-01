@@ -1,0 +1,4 @@
+/* pages/myApp/home/home.wxss */
+.alertBtn{
+  margin-top:100rpx
+}

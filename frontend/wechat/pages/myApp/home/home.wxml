@@ -1,0 +1,7 @@
+<!--pages/myApp/home/home.wxml-->
+<view class="container">
+  <view class="homeinfo">
+    <text>homepage</text>
+    <button bindtap="alertNum" class="alertBtn">alert</button>
+  </view>
+</view>
